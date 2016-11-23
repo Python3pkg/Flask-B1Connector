@@ -1,0 +1,5 @@
+.pypirc
+*.pyc
+.sync/*
+Flask_B1Connector.egg-info/*
+dist/*
